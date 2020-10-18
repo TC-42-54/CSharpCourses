@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuclidianDivisionFirstExercise", "EuclidianDivisionFirstExercise\EuclidianDivisionFirstExercise.csproj", "{6790EBD8-3E77-4E77-8301-5CDDE01F7361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6790EBD8-3E77-4E77-8301-5CDDE01F7361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6790EBD8-3E77-4E77-8301-5CDDE01F7361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6790EBD8-3E77-4E77-8301-5CDDE01F7361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6790EBD8-3E77-4E77-8301-5CDDE01F7361}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92B91847-03EA-45EC-B0C4-0AAC92C9F80A}
+	EndGlobalSection
+EndGlobal
